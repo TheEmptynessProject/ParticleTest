@@ -26,6 +26,12 @@ Our current achievement:
 | Max Particles | 5,000,000 |
 | Highest FPS | 27.88 |
 
+| Metric | Value |
+|--------|-------|
+| Window Size | 1920x1080 |
+| Max Particles | 5,000,000 |
+| Highest FPS | 23.03 |
+
 ## 🚀 Features
 
 - GPU-accelerated particle simulation
